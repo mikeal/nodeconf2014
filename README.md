@@ -21,4 +21,5 @@ Some rooms will be open with mentors that can help people optionally do the foll
 * C++ addons ???
 * Data Processing ???
 * NPM ???
-* Browserify ???
+* Browserify
+* OpenGL
