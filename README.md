@@ -13,13 +13,15 @@ Some rooms will be open with mentors that can help people optionally do the foll
 * Stream Adventure
 * Bytewiser
 * Functional JavaScript
+* Web Frameworks (express, hapi, geddy) ???
 
 # Day 2 Sessions
 
 * Node Databases (Level me Up)
 * Debugging
-* C++ addons ???
-* Data Processing ???
-* NPM ???
 * Browserify
 * OpenGL
+* C++ addons
+* Data Processing ???
+* NPM ???
+
