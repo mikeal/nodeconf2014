@@ -23,6 +23,6 @@ Some rooms will be open with mentors that can help people optionally do the foll
 * OpenGL (@mikolalysenko, @chrisdickinson, @hughsk) 
 * C++ addons (@rvagg, @ceejbot)
 * Robots (@rockbot, @rwaldron, @tmpvar)
-* Proposed: Data Processing (@maxogden)
+* Data Processing (@maxogden, @jlord)
 * Proposed: NPM (@isaacs)
 
