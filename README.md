@@ -17,11 +17,12 @@ Some rooms will be open with mentors that can help people optionally do the foll
 
 # Day 2 Sessions
 
-* Node Databases (Level me Up)
-* Debugging
-* Browserify
-* OpenGL
-* C++ addons
-* Data Processing ???
-* NPM ???
+* NodeBase (???)
+* Debugging (@othiym23)
+* Browserify (@substack)
+* OpenGL (@mikolalysenko, @chrisdickinson, @hughsk) 
+* C++ addons (@rvagg, @ceejbot)
+* Robots (@rockbot, @rwaldron, @tmpvar)
+* Proposed: Data Processing (@maxogden)
+* Proposed: NPM (@isaacs)
 
