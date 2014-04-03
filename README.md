@@ -17,12 +17,13 @@ Some rooms will be open with mentors that can help people optionally do the foll
 
 # Day 2 Sessions
 
-* NodeBase (???)
-* Debugging (@othiym23)
-* Browserify (@substack)
-* OpenGL (@mikolalysenko, @chrisdickinson, @hughsk) 
-* C++ addons (@rvagg, @ceejbot)
+
+* NodeBase (@dominictarr, @Raynos)
+* Debugging (@othiym23, @nvcexploder)
+* Browserify (@substack, @thlorenz)
+* OpenGL (@mikolalysenko, @chrisdickinson, @hughsk)
+* C++ addons (@rvagg, @ceejbot, @tjfontaine)
 * Robots (@rockbot, @rwaldron, @tmpvar)
-* Data Processing (@maxogden, @jlord)
-* Proposed: NPM (@isaacs)
+* Data Processing (@maxogden, @jlord, @visnup)
+* NPM (@isaacs, @timoxley)
 
