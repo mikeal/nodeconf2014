@@ -20,7 +20,7 @@ Some rooms will be open with mentors that can help people optionally do the foll
 
 * NodeBase (@dominictarr, @Raynos)
 * Debugging (@othiym23, @nvcexploder)
-* Browserify (@substack, @thlorenz)
+* Browserify (@substack, @thlorenz, @feross)
 * OpenGL (@mikolalysenko, @chrisdickinson, @hughsk)
 * C++ addons (@rvagg, @ceejbot, @tjfontaine)
 * Robots (@rockbot, @rwaldron, @tmpvar)
