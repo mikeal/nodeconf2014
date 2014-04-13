@@ -18,7 +18,7 @@ Some rooms will be open with mentors that can help people optionally do the foll
 # Day 2 Sessions
 
 
-* NodeBase (@dominictarr, @Raynos)
+* NodeBase (@dominictarr, @Raynos, @hij1nx)
 * Debugging (@othiym23, @nvcexploder)
 * Browserify (@substack, @thlorenz, @feross)
 * OpenGL (@mikolalysenko, @chrisdickinson, @hughsk)
